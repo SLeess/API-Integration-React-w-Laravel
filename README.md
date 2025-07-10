@@ -153,7 +153,7 @@ A aplicação React estará acessível em `http://localhost:5173` (ou a porta qu
     npm run build
     ```
 
-## 📚 Documentação da API (Opcional)
+## 📚 Documentação da API
 
 A documentação dos endpoints da API pode ser encontrada [aqui](https://www.google.com/). (EM ANDAMENTO).
 
