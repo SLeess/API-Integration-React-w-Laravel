@@ -27,11 +27,11 @@ A aplicação permite que candidatos visualizem e se inscrevam nos editais, enqu
 ### Frontend
 
   - **React 18+**
+  - **JavaScript**
   - **TypeScript**
   - **Vite:** Como ferramenta de build e servidor de desenvolvimento.
   - **Tailwind CSS:** Para estilização.
   - **React Router:** Para gerenciamento de rotas.
-  - **Axios:** Para requisições à API.
 
 ## ⚙️ Pré-requisitos
 
