@@ -1,6 +1,6 @@
-# Sistema de Gerenciamento de Editais - ProCEAD/Unimontes
+# Sistema de Gerenciamento de Editais
 
-Este projeto é um sistema web completo para a publicação e gerenciamento de processos seletivos (editais) do CEAD/Unimontes. Ele é composto por uma API RESTful robusta construída com Laravel e um frontend reativo desenvolvido com React.
+Este projeto é um sistema web completo para a publicação e gerenciamento de processos seletivos. Ele é composto por uma API RESTful robusta construída com Laravel e um frontend reativo desenvolvido com React.
 
 A aplicação permite que candidatos visualizem e se inscrevam nos editais, enquanto administradores gerenciam os processos seletivos através de um sistema granular de papéis e permissões.
 
